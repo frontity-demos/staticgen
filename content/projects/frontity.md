@@ -12,11 +12,9 @@ description: Create amazing websites using WordPress & React
 twitter: frontity
 ---
 
-Frontity is a free and open source framework to develop WordPress themes based on ReactJS. 
+**Frontity** is a free and open source framework to develop WordPress themes based on ReactJS. 
 
-## » What is Frontity?
-
-**Frontity** can be explained in two different ways:
+Frontity can be seen from two perspectives:
 
 1. As an [alternative rendering engine for WordPress](https://docs.frontity.org/#an-alternative-rendering-engine-for-wordpress).
 1. As a [React framework to create WordPress themes](https://docs.frontity.org/#a-react-framework-to-create-wordpress-themes).
