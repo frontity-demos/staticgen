@@ -5,7 +5,7 @@ homepage: https://frontity.org/
 language:
   - JavaScript
 license:
-  - MIT
+  - Apache License 2.0
 templates:
   - React
 description: Create amazing websites using WordPress & React
